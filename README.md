@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Narges
+# 👋 Hi, I'm Nova,
 
 I'm a passionate data professional with a strong foundation in statistics, data science, and operations management. Currently pursuing my **MicroMasters in Statistics and Data Science at MIT** and preparing for the **Snowflake Core Certificate**, I’m excited to explore new opportunities that leverage my skills in **data engineering**, **analytics**, and **business operations**. My background includes hands-on experience with tools like Snowflake, SQL, Python, and various data warehousing solutions.
 
